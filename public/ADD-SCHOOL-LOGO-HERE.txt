@@ -1,0 +1,1 @@
+Copy the school's logo image into this folder and name it school-logo.jpg. The site will display it in the header.
